@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "nuxt-auth-a55bb"
+  },
+  "targets": {
+    "nuxt-auth-a55bb": {
+      "hosting": {
+        "nuxtapp": [
+          "nuxt-auth-a55bb"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
