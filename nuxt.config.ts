@@ -6,13 +6,13 @@ export default defineNuxtConfig({
     apiSecret: "123",
 
     public: {
-      apiKey: process.env.FIRE_API_KEY,
-      authDomain: process.env.FIRE_AUTH_DOMAIN,
-      projectId: process.env.FIRE_PROJECT_ID,
-      storageBucket: process.env.FIRE_STORAGE_BUCKET,
-      messagingSenderId: process.env.FIRE_MESSAGING_SENDERID,
-      appId: process.env.FIRE_APP_ID,
-      measurementId: process.env.FIRE_MEASUREMENT_ID,
+      apiKey: process.env.NUXT_API_KEY,
+      authDomain: process.env.NUXT_AUTH_DOMAIN,
+      projectId: process.env.NUXT_PROJECT_ID,
+      storageBucket: process.env.NUXT_STORAGE_BUCKET,
+      messagingSenderId: process.env.NUXT_MESSAGING_SENDERID,
+      appId: process.env.NUXT_APP_ID,
+      measurementId: process.env.NUXT_MEASUREMENT_ID,
     },
   },
 });

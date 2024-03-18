@@ -1505,11 +1505,11 @@ __metadata:
   linkType: hard
 
 "@iconify/collections@npm:^1.0.401":
-  version: 1.0.404
-  resolution: "@iconify/collections@npm:1.0.404"
+  version: 1.0.405
+  resolution: "@iconify/collections@npm:1.0.405"
   dependencies:
     "@iconify/types": "npm:*"
-  checksum: 10c0/d8b07b2ace7325257ba1b91f249cea645a13bc8f26801598a032cbfa03675b5ac5a4898f22e3ee31ff22baad6480c7301a89422bf7c0f84272582fe023fb3a2a
+  checksum: 10c0/d8154c2417b88858ab5d992f1eb0285092739ce7bb9721536f4d83e1af99a062358aba20e2399d48e261178d2f8c9b3a61bdb43b2980b7412e71bcefc0e2eefc
   languageName: node
   linkType: hard
 
