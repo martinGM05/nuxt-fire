@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { useFirebaseAuth } from "~/composables/useFirebaseAuth";
+import { useFirebaseAuth } from "../composables/useFirebaseAuth";
 import { z } from "zod";
 import type { FormSubmitEvent } from "#ui/types";
 

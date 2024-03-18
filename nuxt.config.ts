@@ -2,6 +2,7 @@
 export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: ["@nuxt/ui"],
+  srcDir: "src/",
   runtimeConfig: {
     apiSecret: "123",
 
